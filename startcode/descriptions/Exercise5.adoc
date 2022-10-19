@@ -1,0 +1,19 @@
+:Exercise5_1_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave5+`]
+:Exercise5_1_FileName: pass:normal[`+LesBlogg.java+`]
+:Exercise5_1_FileSimpleName: pass:normal[`+LesBlogg+`]
+:Task5_1_1_FullName: public static Blogg les(String mappe, String filnavn)
+:Task5_1_1_SimpleName: pass:normal[`+les+`]
+:Task5_1_1_Type: pass:normal[`+Method+`]
+
+= *Exercise 5*
+
+== a)
+The starting code for this exercise can be found in the file {Exercise5_1_FileName}, which you can find in the package {Exercise5_1_Package}. Your task is to implement the following:
+
+* A {Task5_1_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task5_1_1_FullName}
+----
+

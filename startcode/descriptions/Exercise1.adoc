@@ -1,0 +1,189 @@
+:Exercise1_1_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_1_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_1_FileSimpleName: pass:normal[`+Innlegg+`]
+:Exercise1_2_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_2_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_2_FileSimpleName: pass:normal[`+Innlegg+`]
+:Exercise1_3_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_3_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_3_FileSimpleName: pass:normal[`+Innlegg+`]
+:Exercise1_4_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_4_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_4_FileSimpleName: pass:normal[`+Innlegg+`]
+:Exercise1_5_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_5_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_5_FileSimpleName: pass:normal[`+Innlegg+`]
+:Exercise1_6_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave1+`]
+:Exercise1_6_FileName: pass:normal[`+Innlegg.java+`]
+:Exercise1_6_FileSimpleName: pass:normal[`+Innlegg+`]
+:Task1_1_1_FullName: private String bruker;
+:Task1_1_1_SimpleName: pass:normal[`+bruker+`]
+:Task1_1_1_Type: pass:normal[`+Field+`]
+:Task1_1_2_FullName: private String dato;
+:Task1_1_2_SimpleName: pass:normal[`+dato+`]
+:Task1_1_2_Type: pass:normal[`+Field+`]
+:Task1_1_3_FullName: private int likes;
+:Task1_1_3_SimpleName: pass:normal[`+likes+`]
+:Task1_1_3_Type: pass:normal[`+Field+`]
+:Task1_1_4_FullName: private int id;
+:Task1_1_4_SimpleName: pass:normal[`+id+`]
+:Task1_1_4_Type: pass:normal[`+Field+`]
+:Task1_2_1_FullName: public Innlegg(int id, String bruker, String dato)
+:Task1_2_1_SimpleName: pass:normal[`+Innlegg+`]
+:Task1_2_1_Type: pass:normal[`+Constructor+`]
+:Task1_2_2_FullName: public Innlegg(int id, String bruker, String dato, int likes)
+:Task1_2_2_SimpleName: pass:normal[`+Innlegg+`]
+:Task1_2_2_Type: pass:normal[`+Constructor+`]
+:Task1_3_1_FullName: public String getBruker()
+:Task1_3_1_SimpleName: pass:normal[`+getBruker+`]
+:Task1_3_1_Type: pass:normal[`+Method+`]
+:Task1_3_2_FullName: public void setBruker(String bruker)
+:Task1_3_2_SimpleName: pass:normal[`+setBruker+`]
+:Task1_3_2_Type: pass:normal[`+Method+`]
+:Task1_3_3_FullName: public String getDato()
+:Task1_3_3_SimpleName: pass:normal[`+getDato+`]
+:Task1_3_3_Type: pass:normal[`+Method+`]
+:Task1_3_4_FullName: public void setDato(String dato)
+:Task1_3_4_SimpleName: pass:normal[`+setDato+`]
+:Task1_3_4_Type: pass:normal[`+Method+`]
+:Task1_3_5_FullName: public int getId()
+:Task1_3_5_SimpleName: pass:normal[`+getId+`]
+:Task1_3_5_Type: pass:normal[`+Method+`]
+:Task1_4_1_FullName: public int getLikes()
+:Task1_4_1_SimpleName: pass:normal[`+getLikes+`]
+:Task1_4_1_Type: pass:normal[`+Method+`]
+:Task1_4_2_FullName: public void doLike()
+:Task1_4_2_SimpleName: pass:normal[`+doLike+`]
+:Task1_4_2_Type: pass:normal[`+Method+`]
+:Task1_5_1_FullName: public String toString()
+:Task1_5_1_SimpleName: pass:normal[`+toString+`]
+:Task1_5_1_Type: pass:normal[`+Method+`]
+:Task1_6_1_FullName: public boolean erLik(Innlegg innlegg)
+:Task1_6_1_SimpleName: pass:normal[`+erLik+`]
+:Task1_6_1_Type: pass:normal[`+Method+`]
+
+= *Exercise 1*
+
+== a)
+The starting code for this exercise can be found in the file {Exercise1_1_FileName}, which you can find in the package {Exercise1_1_Package}. Your task is to implement the following:
+
+* A {Task1_1_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_1_1_FullName}
+----
+
+* A {Task1_1_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_1_2_FullName}
+----
+
+* A {Task1_1_3_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_1_3_FullName}
+----
+
+* A {Task1_1_4_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_1_4_FullName}
+----
+
+== b)
+The starting code for this exercise can be found in the file {Exercise1_2_FileName}, which you can find in the package {Exercise1_2_Package}. Your task is to implement the following:
+
+* A {Task1_2_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_2_1_FullName}
+----
+
+* A {Task1_2_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_2_2_FullName}
+----
+
+== c)
+The starting code for this exercise can be found in the file {Exercise1_3_FileName}, which you can find in the package {Exercise1_3_Package}. Your task is to implement the following:
+
+* A {Task1_3_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_3_1_FullName}
+----
+
+* A {Task1_3_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_3_2_FullName}
+----
+
+* A {Task1_3_3_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_3_3_FullName}
+----
+
+* A {Task1_3_4_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_3_4_FullName}
+----
+
+* A {Task1_3_5_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_3_5_FullName}
+----
+
+== d)
+The starting code for this exercise can be found in the file {Exercise1_4_FileName}, which you can find in the package {Exercise1_4_Package}. Your task is to implement the following:
+
+* A {Task1_4_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_4_1_FullName}
+----
+
+* A {Task1_4_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_4_2_FullName}
+----
+
+== e)
+The starting code for this exercise can be found in the file {Exercise1_5_FileName}, which you can find in the package {Exercise1_5_Package}. Your task is to implement the following:
+
+* A {Task1_5_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_5_1_FullName}
+----
+
+== f)
+The starting code for this exercise can be found in the file {Exercise1_6_FileName}, which you can find in the package {Exercise1_6_Package}. Your task is to implement the following:
+
+* A {Task1_6_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task1_6_1_FullName}
+----
+

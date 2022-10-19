@@ -1,0 +1,128 @@
+:Exercise2_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave2+`]
+:Exercise2_FileName: pass:normal[`+Bilde.java+`]
+:Exercise2_FileSimpleName: pass:normal[`+Bilde+`]
+:Task2_1_FullName: private String url;
+:Task2_1_SimpleName: pass:normal[`+url+`]
+:Task2_1_Type: pass:normal[`+Field+`]
+:Task2_2_FullName: public Bilde(int id, String bruker, String dato, String tekst, String url)
+:Task2_2_SimpleName: pass:normal[`+Bilde+`]
+:Task2_2_Type: pass:normal[`+Constructor+`]
+:Task2_3_FullName: public Bilde(int id, String bruker, String dato, int likes, String tekst, String url)
+:Task2_3_SimpleName: pass:normal[`+Bilde+`]
+:Task2_3_Type: pass:normal[`+Constructor+`]
+:Task2_4_FullName: public String getUrl()
+:Task2_4_SimpleName: pass:normal[`+getUrl+`]
+:Task2_4_Type: pass:normal[`+Method+`]
+:Task2_5_FullName: public void setUrl(String url)
+:Task2_5_SimpleName: pass:normal[`+setUrl+`]
+:Task2_5_Type: pass:normal[`+Method+`]
+:Task2_6_FullName: public String toString()
+:Task2_6_SimpleName: pass:normal[`+toString+`]
+:Task2_6_Type: pass:normal[`+Method+`]
+:Task2_7_FullName: private String tekst;
+:Task2_7_SimpleName: pass:normal[`+tekst+`]
+:Task2_7_Type: pass:normal[`+Field+`]
+:Task2_8_FullName: public Tekst(int id, String bruker, String dato, String tekst)
+:Task2_8_SimpleName: pass:normal[`+Tekst+`]
+:Task2_8_Type: pass:normal[`+Constructor+`]
+:Task2_9_FullName: public Tekst(int id, String bruker, String dato, int likes, String tekst)
+:Task2_9_SimpleName: pass:normal[`+Tekst+`]
+:Task2_9_Type: pass:normal[`+Constructor+`]
+:Task2_10_FullName: public String getTekst()
+:Task2_10_SimpleName: pass:normal[`+getTekst+`]
+:Task2_10_Type: pass:normal[`+Method+`]
+:Task2_11_FullName: public void setTekst(String tekst)
+:Task2_11_SimpleName: pass:normal[`+setTekst+`]
+:Task2_11_Type: pass:normal[`+Method+`]
+:Task2_12_FullName: public String toString()
+:Task2_12_SimpleName: pass:normal[`+toString+`]
+:Task2_12_Type: pass:normal[`+Method+`]
+
+= *Exercise 2*
+
+The starting code for this exercise can be found in the file {Exercise2_FileName}, which you can find in the package {Exercise2_Package}. Your task is to implement the following:
+
+* A {Task2_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_1_FullName}
+----
+
+* A {Task2_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_2_FullName}
+----
+
+* A {Task2_3_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_3_FullName}
+----
+
+* A {Task2_4_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_4_FullName}
+----
+
+* A {Task2_5_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_5_FullName}
+----
+
+* A {Task2_6_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_6_FullName}
+----
+
+* A {Task2_7_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_7_FullName}
+----
+
+* A {Task2_8_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_8_FullName}
+----
+
+* A {Task2_9_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_9_FullName}
+----
+
+* A {Task2_10_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_10_FullName}
+----
+
+* A {Task2_11_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_11_FullName}
+----
+
+* A {Task2_12_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task2_12_FullName}
+----
+

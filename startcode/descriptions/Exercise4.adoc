@@ -1,0 +1,18 @@
+:Exercise4_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave4+`]
+:Exercise4_FileName: pass:normal[`+SkrivBlogg.java+`]
+:Exercise4_FileSimpleName: pass:normal[`+SkrivBlogg+`]
+:Task4_1_FullName: public static boolean skriv(Blogg samling, String mappe, String filnavn)
+:Task4_1_SimpleName: pass:normal[`+skriv+`]
+:Task4_1_Type: pass:normal[`+Method+`]
+
+= *Exercise 4*
+
+The starting code for this exercise can be found in the file {Exercise4_FileName}, which you can find in the package {Exercise4_Package}. Your task is to implement the following:
+
+* A {Task4_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task4_1_FullName}
+----
+

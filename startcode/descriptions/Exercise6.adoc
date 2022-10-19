@@ -1,0 +1,48 @@
+:Exercise6_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave2+`]
+:Exercise6_FileName: pass:normal[`+Bilde.java+`]
+:Exercise6_FileSimpleName: pass:normal[`+Bilde+`]
+:Task6_1_FullName: public String toHTML()
+:Task6_1_SimpleName: pass:normal[`+toHTML+`]
+:Task6_1_Type: pass:normal[`+Method+`]
+:Task6_2_FullName: public String toString()
+:Task6_2_SimpleName: pass:normal[`+toString+`]
+:Task6_2_Type: pass:normal[`+Method+`]
+:Task6_3_FullName: public String toHTML()
+:Task6_3_SimpleName: pass:normal[`+toHTML+`]
+:Task6_3_Type: pass:normal[`+Method+`]
+:Task6_4_FullName: public String toHTML()
+:Task6_4_SimpleName: pass:normal[`+toHTML+`]
+:Task6_4_Type: pass:normal[`+Method+`]
+
+= *Exercise 6*
+
+The starting code for this exercise can be found in the file {Exercise6_FileName}, which you can find in the package {Exercise6_Package}. Your task is to implement the following:
+
+* A {Task6_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task6_1_FullName}
+----
+
+* A {Task6_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task6_2_FullName}
+----
+
+* A {Task6_3_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task6_3_FullName}
+----
+
+* A {Task6_4_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task6_4_FullName}
+----
+

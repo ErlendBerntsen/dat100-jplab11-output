@@ -1,0 +1,231 @@
+:Exercise3_1_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_1_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_1_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_2_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_2_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_2_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_3_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_3_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_3_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_4_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_4_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_4_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_5_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_5_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_5_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_6_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_6_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_6_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_7_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_7_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_7_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_8_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_8_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_8_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_9_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_9_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_9_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_10_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_10_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_10_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_11_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_11_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_11_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_12_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_12_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_12_FileSimpleName: pass:normal[`+Blogg+`]
+:Exercise3_13_Package: pass:normal[`+no.hvl.dat100.jplab11.oppgave3+`]
+:Exercise3_13_FileName: pass:normal[`+Blogg.java+`]
+:Exercise3_13_FileSimpleName: pass:normal[`+Blogg+`]
+:Task3_1_1_FullName: private int nesteledig;
+:Task3_1_1_SimpleName: pass:normal[`+nesteledig+`]
+:Task3_1_1_Type: pass:normal[`+Field+`]
+:Task3_1_2_FullName: private Innlegg[] innleggtabell;
+:Task3_1_2_SimpleName: pass:normal[`+innleggtabell+`]
+:Task3_1_2_Type: pass:normal[`+Field+`]
+:Task3_2_1_FullName: public Blogg()
+:Task3_2_1_SimpleName: pass:normal[`+Blogg+`]
+:Task3_2_1_Type: pass:normal[`+Constructor+`]
+:Task3_2_2_FullName: public Blogg(int lengde)
+:Task3_2_2_SimpleName: pass:normal[`+Blogg+`]
+:Task3_2_2_Type: pass:normal[`+Constructor+`]
+:Task3_3_1_FullName: public int getAntall()
+:Task3_3_1_SimpleName: pass:normal[`+getAntall+`]
+:Task3_3_1_Type: pass:normal[`+Method+`]
+:Task3_4_1_FullName: public Innlegg[] getSamling()
+:Task3_4_1_SimpleName: pass:normal[`+getSamling+`]
+:Task3_4_1_Type: pass:normal[`+Method+`]
+:Task3_5_1_FullName: public int finnInnlegg(Innlegg innlegg)
+:Task3_5_1_SimpleName: pass:normal[`+finnInnlegg+`]
+:Task3_5_1_Type: pass:normal[`+Method+`]
+:Task3_6_1_FullName: public boolean finnes(Innlegg innlegg)
+:Task3_6_1_SimpleName: pass:normal[`+finnes+`]
+:Task3_6_1_Type: pass:normal[`+Method+`]
+:Task3_7_1_FullName: public boolean ledigPlass()
+:Task3_7_1_SimpleName: pass:normal[`+ledigPlass+`]
+:Task3_7_1_Type: pass:normal[`+Method+`]
+:Task3_8_1_FullName: public boolean leggTil(Innlegg innlegg)
+:Task3_8_1_SimpleName: pass:normal[`+leggTil+`]
+:Task3_8_1_Type: pass:normal[`+Method+`]
+:Task3_9_1_FullName: public String toString()
+:Task3_9_1_SimpleName: pass:normal[`+toString+`]
+:Task3_9_1_Type: pass:normal[`+Method+`]
+:Task3_10_1_FullName: public void utvid()
+:Task3_10_1_SimpleName: pass:normal[`+utvid+`]
+:Task3_10_1_Type: pass:normal[`+Method+`]
+:Task3_11_1_FullName: public boolean leggTilUtvid(Innlegg innlegg)
+:Task3_11_1_SimpleName: pass:normal[`+leggTilUtvid+`]
+:Task3_11_1_Type: pass:normal[`+Method+`]
+:Task3_12_1_FullName: public void slett(Innlegg innlegg)
+:Task3_12_1_SimpleName: pass:normal[`+slett+`]
+:Task3_12_1_Type: pass:normal[`+Method+`]
+:Task3_13_1_FullName: public int[] search(String keyword)
+:Task3_13_1_SimpleName: pass:normal[`+search+`]
+:Task3_13_1_Type: pass:normal[`+Method+`]
+
+= *Exercise 3*
+
+== a)
+The starting code for this exercise can be found in the file {Exercise3_1_FileName}, which you can find in the package {Exercise3_1_Package}. Your task is to implement the following:
+
+* A {Task3_1_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_1_1_FullName}
+----
+
+* A {Task3_1_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_1_2_FullName}
+----
+
+== b)
+The starting code for this exercise can be found in the file {Exercise3_2_FileName}, which you can find in the package {Exercise3_2_Package}. Your task is to implement the following:
+
+* A {Task3_2_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_2_1_FullName}
+----
+
+* A {Task3_2_2_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_2_2_FullName}
+----
+
+== c)
+The starting code for this exercise can be found in the file {Exercise3_3_FileName}, which you can find in the package {Exercise3_3_Package}. Your task is to implement the following:
+
+* A {Task3_3_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_3_1_FullName}
+----
+
+== d)
+The starting code for this exercise can be found in the file {Exercise3_4_FileName}, which you can find in the package {Exercise3_4_Package}. Your task is to implement the following:
+
+* A {Task3_4_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_4_1_FullName}
+----
+
+== e)
+The starting code for this exercise can be found in the file {Exercise3_5_FileName}, which you can find in the package {Exercise3_5_Package}. Your task is to implement the following:
+
+* A {Task3_5_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_5_1_FullName}
+----
+
+== f)
+The starting code for this exercise can be found in the file {Exercise3_6_FileName}, which you can find in the package {Exercise3_6_Package}. Your task is to implement the following:
+
+* A {Task3_6_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_6_1_FullName}
+----
+
+== g)
+The starting code for this exercise can be found in the file {Exercise3_7_FileName}, which you can find in the package {Exercise3_7_Package}. Your task is to implement the following:
+
+* A {Task3_7_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_7_1_FullName}
+----
+
+== h)
+The starting code for this exercise can be found in the file {Exercise3_8_FileName}, which you can find in the package {Exercise3_8_Package}. Your task is to implement the following:
+
+* A {Task3_8_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_8_1_FullName}
+----
+
+== i)
+The starting code for this exercise can be found in the file {Exercise3_9_FileName}, which you can find in the package {Exercise3_9_Package}. Your task is to implement the following:
+
+* A {Task3_9_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_9_1_FullName}
+----
+
+== j)
+The starting code for this exercise can be found in the file {Exercise3_10_FileName}, which you can find in the package {Exercise3_10_Package}. Your task is to implement the following:
+
+* A {Task3_10_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_10_1_FullName}
+----
+
+== k)
+The starting code for this exercise can be found in the file {Exercise3_11_FileName}, which you can find in the package {Exercise3_11_Package}. Your task is to implement the following:
+
+* A {Task3_11_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_11_1_FullName}
+----
+
+== l)
+The starting code for this exercise can be found in the file {Exercise3_12_FileName}, which you can find in the package {Exercise3_12_Package}. Your task is to implement the following:
+
+* A {Task3_12_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_12_1_FullName}
+----
+
+== m)
+The starting code for this exercise can be found in the file {Exercise3_13_FileName}, which you can find in the package {Exercise3_13_Package}. Your task is to implement the following:
+
+* A {Task3_13_1_Type}:
+
+[source, java, subs="attributes+"]
+----
+{Task3_13_1_FullName}
+----
+
